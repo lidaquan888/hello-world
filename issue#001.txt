@@ -1,1 +1,2 @@
 fix a bug named #001
+a GitFlow test
