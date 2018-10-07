@@ -1,1 +1,2 @@
 This is a new feature named feature_2.
+The following are some features of the feature_2:
